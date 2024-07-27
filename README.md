@@ -17,9 +17,9 @@
 ### 🛠 Technologies I use
 
 <p><img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,angular,spring,mysql,git,github&theme=light"></p>
-<br>
 
 ---
+
 ### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lithira-Dilitha&layout=compact&theme=tokyonight"><br>
