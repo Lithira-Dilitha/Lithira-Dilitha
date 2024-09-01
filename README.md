@@ -16,7 +16,7 @@
 ---
 ### 🛠 Technologies I use
 
-<p><img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,angular,spring,mysql,git,github&theme=light"></p>
+<p><img src="https://skillicons.dev/icons?i=java,html,css,javascript,bootstrap,angular,spring,express,mysql,postgres,git,github&theme=light"></p>
 
 ---
 
